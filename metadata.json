@@ -1,0 +1,5 @@
+{
+  "name": " โครงการรักษ์ภาษาไทย",
+  "description": "A system to search, edit, and print A4 certificates using data from Google Sheets and a custom background.",
+  "requestFramePermissions": []
+}
